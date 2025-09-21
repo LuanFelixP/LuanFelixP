@@ -2,7 +2,9 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Luan Felix, tenho 19 anos e sou natural de Recife. Concluí o ensino médio Técnico na ETE, com o curso técnico em informática e Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia e pelo mundo geek. espero um dia conseguir entrar em uma empresa multinacional
+Oi, sou o Luan Felix, tenho 19 anos e sou de Recife.
+Sou formado em Técnico em Informática e Eletrotécnica pela ETE e atualmente curso Análise e Desenvolvimento de Sistemas na Anhanguera.
+Sempre fui curioso com tecnologia, e hoje busco minha primeira oportunidade na área de desenvolvimento. Quero colocar em prática o que venho aprendendo, crescer com a experiência do dia a dia e, no futuro, atuar em uma empresa de grande porte — quem sabe até fora do país
 
 <p align="left">
     <a href="https://github.com/LuanFelixP?tab=repositories&sort=stargazers">
